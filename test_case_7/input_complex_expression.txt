@@ -1,0 +1,6 @@
+var x, y, z: integer;
+begin
+  x := 1 + 2;
+  y := x - 5;
+  z := y + x;
+end.

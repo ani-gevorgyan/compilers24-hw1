@@ -1,0 +1,12 @@
+number:"23"
+term:"var"
+ident:"a"
+term:":="
+term:"begin"
+ident:"b"
+term:":"
+term:"integer"
+term:":="
+number:"42"
+term:";"
+": error, invalid term

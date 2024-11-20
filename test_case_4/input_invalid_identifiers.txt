@@ -1,0 +1,5 @@
+23var := 56;
+aabb := 78;
+begin
+  b := a - 2c;
+end.

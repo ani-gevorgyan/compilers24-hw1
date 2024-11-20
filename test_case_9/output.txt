@@ -1,0 +1,8 @@
+ident:"aaa"
+term:";"
+ident:"ooo"
+term:";"
+2a: error, invalid term
+term:";"
+ident:"eee"
+term:";"
